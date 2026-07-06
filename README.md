@@ -8,8 +8,10 @@
 
 Brazilian pilots must log every flight field-by-field in a 2000s-era government portal. Heavy flyers lose 30–90 minutes a week to it, and there is no official bulk import. App Iter reads an Excel logbook and enters every flight automatically — **safely enough to run against government records**.
 
+<p align="center"><img src="demo.gif" alt="App Iter importing a flight logbook into the ANAC portal" width="720"></p>
+
 > 🔒 The product is commercial, so the source code is private. This repository documents the
-> architecture and hosts the installer releases. Detailed case study: [iterlabs.com.br](https://iterlabs.com.br).
+> architecture and hosts the installer releases. Detailed case study: [portfolio.iterlabs.com.br](https://portfolio.iterlabs.com.br).
 
 ### Why it's technically interesting
 
@@ -52,4 +54,4 @@ Pilotos brasileiros lançam cada voo campo a campo no portal do governo; quem vo
 
 ---
 
-<sub>Built with AI-assisted development (Claude Code); designed, verified, and operated by <a href="https://github.com/giuseppeferretti">Giuseppe Ferretti</a> · <a href="https://iterlabs.com.br">Iter Labs</a></sub>
+<sub>Built with AI-assisted development (Claude Code); designed, verified, and operated by <a href="https://github.com/giuseppeferretti">Giuseppe Ferretti</a> · <a href="https://portfolio.iterlabs.com.br">Iter Labs</a></sub>
